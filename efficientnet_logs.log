@@ -1,0 +1,11 @@
+pretrained_mobilenetv2 ep1/10 loss=2.054 acc=0.591 f1_train=0.632 val_f1=0.636
+pretrained_mobilenetv2 ep2/10 loss=1.790 acc=0.730 f1_train=0.688 val_f1=0.689
+pretrained_mobilenetv2 ep3/10 loss=1.705 acc=0.782 f1_train=0.733 val_f1=0.731
+pretrained_mobilenetv2 ep4/10 loss=1.653 acc=0.803 f1_train=0.757 val_f1=0.761
+pretrained_mobilenetv2 ep5/10 loss=1.618 acc=0.820 f1_train=0.768 val_f1=0.779
+pretrained_mobilenetv2 ep6/10 loss=1.592 acc=0.838 f1_train=0.800 val_f1=0.799
+pretrained_mobilenetv2 ep7/10 loss=1.580 acc=0.849 f1_train=0.822 val_f1=0.813
+pretrained_mobilenetv2 ep8/10 loss=1.572 acc=0.859 f1_train=0.839 val_f1=0.822
+pretrained_mobilenetv2 ep9/10 loss=1.562 acc=0.867 f1_train=0.854 val_f1=0.831
+pretrained_mobilenetv2 ep10/10 loss=1.557 acc=0.872 f1_train=0.864 val_f1=0.834
+ResNet18 best val F1: 0.8340012480535374

@@ -1,0 +1,13 @@
+
+
+custom_resnet ep1/10 loss=2.392 acc=0.393 f1_train=0.391 val_f1=0.376
+custom_resnet ep2/10 loss=2.192 acc=0.539 f1_train=0.333 val_f1=0.371
+custom_resnet ep3/10 loss=2.101 acc=0.596 f1_train=0.494 val_f1=0.519
+custom_resnet ep4/10 loss=2.026 acc=0.641 f1_train=0.483 val_f1=0.485
+custom_resnet ep5/10 loss=1.973 acc=0.668 f1_train=0.539 val_f1=0.557
+custom_resnet ep6/10 loss=1.930 acc=0.700 f1_train=0.577 val_f1=0.581
+custom_resnet ep7/10 loss=1.887 acc=0.719 f1_train=0.614 val_f1=0.613
+custom_resnet ep8/10 loss=1.851 acc=0.737 f1_train=0.619 val_f1=0.625
+custom_resnet ep9/10 loss=1.816 acc=0.747 f1_train=0.684 val_f1=0.661
+custom_resnet ep10/10 loss=1.776 acc=0.766 f1_train=0.677 val_f1=0.655
+ResNet18 best val F1: 0.6553272454006534

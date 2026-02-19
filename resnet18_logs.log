@@ -1,0 +1,12 @@
+
+pretrained_resnet18 ep1/10 loss=2.006 acc=0.641 f1_train=0.600 val_f1=0.621
+pretrained_resnet18 ep2/10 loss=1.758 acc=0.774 f1_train=0.687 val_f1=0.700
+pretrained_resnet18 ep3/10 loss=1.678 acc=0.809 f1_train=0.785 val_f1=0.778
+pretrained_resnet18 ep4/10 loss=1.613 acc=0.839 f1_train=0.776 val_f1=0.762
+pretrained_resnet18 ep5/10 loss=1.574 acc=0.859 f1_train=0.758 val_f1=0.758
+pretrained_resnet18 ep6/10 loss=1.538 acc=0.876 f1_train=0.805 val_f1=0.791
+pretrained_resnet18 ep7/10 loss=1.506 acc=0.890 f1_train=0.828 val_f1=0.794
+pretrained_resnet18 ep8/10 loss=1.485 acc=0.898 f1_train=0.844 val_f1=0.807
+pretrained_resnet18 ep9/10 loss=1.461 acc=0.909 f1_train=0.862 val_f1=0.820
+pretrained_resnet18 ep10/10 loss=1.440 acc=0.919 f1_train=0.882 val_f1=0.830
+ResNet18 best val F1: 0.8307702026789768
